@@ -1,3 +1,34 @@
+[submodule "node_modules"]
+	path = node_modules
+	url = git@github.com:peento/dev_node_modules.git
+
 [submodule "peento.github.io"]
-	path = peento.github.io
-	url = git@github.com:peento/peento.github.io.git
+        path = peento.github.io
+        url = git@github.com:peento/peento.github.io.git
+[submodule "peento-blog"]
+	path = peento-blog
+	url = git@github.com:peento/peento-blog.git
+[submodule "peento"]
+	path = peento
+	url = git@github.com:peento/peento.git
+[submodule "peento-blog-comment-local"]
+	path = peento-blog-comment-local
+	url = git@github.com:peento/peento-blog-comment-local.git
+[submodule "peento-blog-comment-duoshuo"]
+	path = peento-blog-comment-duoshuo
+	url = git@github.com:peento/peento-blog-comment-duoshuo.git
+[submodule "peento-blog-comment-disqus"]
+	path = peento-blog-comment-disqus
+	url = git@github.com:peento/peento-blog-comment-disqus.git
+[submodule "peento-blog-share-jiathis"]
+	path = peento-blog-share-jiathis
+	url = git@github.com:peento/peento-blog-share-jiathis.git
+[submodule "peento-blog-search-google"]
+	path = peento-blog-search-google
+	url = git@github.com:peento/peento-blog-search-google.git
+[submodule "peento-blog-markdown"]
+	path = peento-blog-markdown
+	url = git@github.com:peento/peento-blog-markdown.git
+[submodule "peento-blog-simditor"]
+	path = peento-blog-simditor
+	url = git@github.com:peento/peento-blog-simditor.git
