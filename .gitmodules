@@ -1,0 +1,3 @@
+[submodule "peento.github.io"]
+	path = peento.github.io
+	url = git@github.com:peento/peento.github.io.git
